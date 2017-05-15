@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+.container {
+    margin: 0 30px;
+    min-height: 140px;
+}
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    margin-top: 60px;
+}
+#js-banner-img-text {
+
+}
+.isShow-p {
+    margin: 45px 30px;
+    font-size: 20px;
+    color: pink;
+    display: none;
+}
+
+.isShow-d {
+    height: 50px;
+    width: 180px;
+    cursor: pointer;
+    background-color: #fd521d;
+    text-align: center;
+    margin: auto;
+}
+.text {
+    text-decoration: none;
+    color: white;
+    top: 14px;
+    position: relative;
+}
+.footer {
+    position: fixed;
+    bottom: 10px;
+    text-align: center;
+    width: 100%;
+    color: #ccc;
+    font-size: 12px;
+}
